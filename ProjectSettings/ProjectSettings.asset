@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<< HEAD
   productGUID: eb685a44fb4f6ae4bbf37c19f4bb60d2
+=======
+  productGUID: 09f60bd8a3f48b14891ab2c9418c345d
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -16,7 +20,11 @@ PlayerSettings:
   productName: GGJ25
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
+<<<<<<< HEAD
   m_SplashScreenBackgroundColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
+=======
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -47,7 +55,11 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
+<<<<<<< HEAD
   m_ActiveColorSpace: 0
+=======
+  m_ActiveColorSpace: 1
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   unsupportedMSAAFallback: 0
   m_SpriteBatchMaxVertexCount: 65535
   m_SpriteBatchVertexThreshold: 300
@@ -156,15 +168,30 @@ PlayerSettings:
   useHDRDisplay: 0
   hdrBitDepth: 0
   m_ColorGamuts: 00000000
+<<<<<<< HEAD
   targetPixelDensity: 0
+=======
+  targetPixelDensity: 30
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   resolutionScalingMode: 0
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
+<<<<<<< HEAD
   applicationIdentifier: {}
   buildNumber: {}
   overrideDefaultApplicationIdentifier: 0
+=======
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.2D-URP
+  buildNumber:
+    Standalone: 0
+    VisionOS: 0
+    iPhone: 0
+    tvOS: 0
+  overrideDefaultApplicationIdentifier: 1
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 23
   AndroidTargetSdkVersion: 0
@@ -183,6 +210,7 @@ PlayerSettings:
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
   iOSSimulatorArchitecture: 0
+<<<<<<< HEAD
   iOSTargetOSVersionString: 
   tvOSSdkVersion: 0
   tvOSSimulatorArchitecture: 0
@@ -190,6 +218,15 @@ PlayerSettings:
   tvOSTargetOSVersionString: 
   VisionOSSdkVersion: 0
   VisionOSTargetOSVersionString: 
+=======
+  iOSTargetOSVersionString: 13.0
+  tvOSSdkVersion: 0
+  tvOSSimulatorArchitecture: 0
+  tvOSRequireExtendedGameController: 0
+  tvOSTargetOSVersionString: 13.0
+  VisionOSSdkVersion: 0
+  VisionOSTargetOSVersionString: 1.0
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -245,9 +282,15 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
+<<<<<<< HEAD
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
+=======
+  clonedFromGUID: c19f32bac17ee4170b3bf8a6a0333fb9
+  templatePackageId: com.unity.template.universal-2d@5.0.2
+  templateDefaultScene: Assets/Scenes/SampleScene.unity
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
@@ -278,7 +321,11 @@ PlayerSettings:
   AndroidMinifyRelease: 0
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
+<<<<<<< HEAD
   AndroidAppBundleSizeToValidate: 200
+=======
+  AndroidAppBundleSizeToValidate: 150
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
   m_BuildTargetIcons: []
@@ -297,7 +344,10 @@ PlayerSettings:
   m_TemplateCustomTags: {}
   mobileMTRendering:
     Android: 1
+<<<<<<< HEAD
     VisionOS: 1
+=======
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
@@ -316,7 +366,11 @@ PlayerSettings:
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
+<<<<<<< HEAD
   macOSTargetOSVersion: 
+=======
+  macOSTargetOSVersion: 11.0
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   switchNMETAOverride: 
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
@@ -441,7 +495,11 @@ PlayerSettings:
   switchSystemResourceMemory: 16777216
   switchSupportedNpadStyles: 22
   switchNativeFsCacheSize: 32
+<<<<<<< HEAD
   switchIsHoldTypeHorizontal: 1
+=======
+  switchIsHoldTypeHorizontal: 0
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   switchSupportedNpadCount: 8
   switchEnableTouchScreen: 1
   switchSocketConfigEnabled: 0
@@ -455,7 +513,11 @@ PlayerSettings:
   switchSocketInitializeEnabled: 1
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchDisableHTCSPlayerConnection: 0
+<<<<<<< HEAD
   switchUseNewStyleFilepaths: 1
+=======
+  switchUseNewStyleFilepaths: 0
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   switchUseLegacyFmodPriorities: 0
   switchUseMicroSleepForYield: 1
   switchEnableRamDiskSupport: 0
@@ -502,7 +564,11 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
+<<<<<<< HEAD
   ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
+=======
+  ps4Passcode: D25bFOIlcWmANChRvUT1ao3Ud48vHsjc
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -553,7 +619,11 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
+<<<<<<< HEAD
   webGLCompressionFormat: 1
+=======
+  webGLCompressionFormat: 0
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -573,11 +643,34 @@ PlayerSettings:
   scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
   platformArchitecture: {}
+<<<<<<< HEAD
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
   il2cppStacktraceInformation: {}
   managedStrippingLevel: {}
+=======
+  scriptingBackend:
+    Android: 1
+  il2cppCompilerConfiguration: {}
+  il2cppCodeGeneration: {}
+  il2cppStacktraceInformation: {}
+  managedStrippingLevel:
+    Android: 1
+    EmbeddedLinux: 1
+    GameCoreScarlett: 1
+    GameCoreXboxOne: 1
+    Nintendo Switch: 1
+    PS4: 1
+    PS5: 1
+    QNX: 1
+    VisionOS: 1
+    WebGL: 1
+    Windows Store Apps: 1
+    XboxOne: 1
+    iPhone: 1
+    tvOS: 1
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
@@ -591,7 +684,11 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: GGJ25
+<<<<<<< HEAD
   metroPackageVersion: 
+=======
+  metroPackageVersion: 1.0.0.0
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -599,7 +696,11 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: GGJ25
   wsaImages: {}
+<<<<<<< HEAD
   metroTileShortName: 
+=======
+  metroTileShortName: GGJ25
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -659,13 +760,18 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   hmiPlayerDataPath: 
+<<<<<<< HEAD
   hmiForceSRGBBlit: 0
+=======
+  hmiForceSRGBBlit: 1
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   embeddedLinuxEnableGamepadInput: 0
   hmiCpuConfiguration: 
   hmiLogStartupTiming: 0
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+<<<<<<< HEAD
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: 
@@ -673,6 +779,15 @@ PlayerSettings:
   qualitySettingsNames: []
   projectName: 
   organizationId: 
+=======
+  activeInputHandler: 2
+  windowsGamepadBackendHint: 0
+  cloudProjectId: d6118d1f-9617-4265-8f60-432f08fdaec3
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: GGJ25 2025-01-25_00-12-41
+  organizationId: yashwankhedkar43
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

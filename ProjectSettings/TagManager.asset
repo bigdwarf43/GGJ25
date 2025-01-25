@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Bubble
+>>>>>>> 46392a0e261c5e7752e48054166c87f42f844f9c
   layers:
   - Default
   - TransparentFX
